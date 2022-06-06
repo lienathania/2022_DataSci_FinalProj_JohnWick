@@ -1,0 +1,16 @@
+Data Science and Computer Programming Final Project:
+John Wick’s Kills Data
+
+By: 李美娉 40747049s & 許鳳芹 40947063s
+
+1.Data source
+The data is about the list of kills that the character John Wick made from the three movies:
+ -John Wick
+ -John Wick: Chapter 2
+ -John Wick Chapter 3: Parabellum
+Link : https://www.kaggle.com/datasets/zbowders/john-wicks-confirmed-onscreen-kills
+
+2.Objectives
+ -How many kills are in each movie?
+ -What is the most used weapon?
+ -Who are the target/victims?
